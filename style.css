@@ -1,0 +1,413 @@
+.cone img {
+    width: 120px;
+    height: 120px;
+
+
+}
+
+.cone {
+    position: absolute;
+    top: 1635px;
+    left: 2400px;
+
+
+}
+.cone h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+
+}
+
+.cone image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+
+.cone2 img{
+    width:120px;
+    height:120px;
+}
+
+.cone2 {
+    position: absolute;
+    top: 1770px;
+    left: 2150px;
+
+
+}
+.cone2 h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+
+}
+
+.cone2 image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone2 img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+
+.cone3 img{
+    width:120px;
+    height:120px;
+}
+
+.cone3 {
+    position: absolute;
+    top: 2100px;
+    left: 1880px;
+
+}
+.cone3 h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+}
+
+.cone3 image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone3 img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+
+.cone4 img{
+    width:120px;
+    height:120px;
+}
+
+.cone4 {
+    position: absolute;
+    top: 2400px;
+    left: 2280px;
+
+
+}
+.cone4 h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+
+}
+
+.cone4 image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone4 img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+
+.cone5 img{
+    width:120px;
+    height:120px;
+}
+
+.cone5 {
+    position: absolute;
+    top: 2900px;
+    left: 2260px;
+
+
+}
+.cone5 h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+
+}
+
+.cone5 image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone5 img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+.cone6 img{
+    width:120px;
+    height:120px;
+}
+
+.cone6 {
+    position: absolute;
+    top: 2870px;
+    left: 2120px;
+
+
+}
+.cone6 h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+
+}
+
+.cone6 image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone6 img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+
+.cone7 img{
+    width:120px;
+    height:120px;
+}
+
+.cone7 {
+    position: absolute;
+    top: 3100px;
+    left: 1900px;
+
+
+}
+.cone7 h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+
+}
+
+.cone7 image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone7 img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+
+.cone8 img{
+    width:120px;
+    height:120px;
+}
+
+.cone8 {
+    position: absolute;
+    top: 3500px;
+    left: 1780px;
+
+
+}
+.cone8 h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+
+}
+
+.cone8 image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone8 img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+
+
+.cone9 img{
+    width:120px;
+    height:120px;
+}
+
+.cone9 {
+    position: absolute;
+    top: 3600px;
+    left: 1900px;
+
+
+}
+.cone9 h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+
+}
+
+.cone9 image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone9 img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+
+.cone10 img{
+    width:120px;
+    height:120px;
+}
+
+.cone10 {
+    position: absolute;
+    top: 3750px;
+    left: 2150px;
+
+
+}
+.cone10 h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+
+}
+
+.cone10 image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone10 img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+.cone11 img{
+    width:120px;
+    height:120px;
+}
+
+.cone11 {
+    position: absolute;
+    top: 4000px;
+    left: 2500px;
+
+
+}
+.cone11 h3 {
+    opacity: 0;
+    position: absolute;
+    top:200;
+    left:100;
+    transition: all 0.66s ease;
+    transform: skewX(57deg);
+    font-family: fantasy;
+    color:blue;
+    text-shadow: 2px 2px yellow
+
+
+}
+
+.cone11 image{
+    position: absolute;
+    top: 600;
+    left: 1000;
+}
+
+.cone11 img:hover + h3 {
+opacity: 1;
+transform: skewX(0);
+}
+
+
+
+
+
+
+
+
